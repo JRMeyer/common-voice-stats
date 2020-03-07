@@ -31,7 +31,7 @@ Feel free to make suggestions!
 | Persian | 67 hours (validated); 70 hours (total) | 1,240 speakers (reported: 13% female / 47% male) | ||
 | Basque | 46 hours (validated); 83 hours (total) | 508 speakers (reported: 22% female / 53% male) | ||
 | Spanish | 27 hours (validated); 31 hours (total) | 611 speakers (reported: 9% female / 74% male) | ||
-(China) | Mandarin (China) | 11 hours (validated); 12 hours (total) | 288 speakers (reported: 0% female / 76% male) | ||
+| Mandarin (China) | 11 hours (validated); 12 hours (total) | 288 speakers (reported: 0% female / 76% male) | ||
 | Mongolian | 8 hours (validated); 9 hours (total) | 230 speakers (reported: 22% female / 35% male) | ||
 | Sakha | 3 hours (validated); 6 hours (total) | 35 speakers (reported: 10% female / 54% male) | ||
 | Dhivehi | 5 hours (validated); 8 hours (total) | 92 speakers (reported: 65% female / 27% male) | ||

@@ -4,8 +4,15 @@ This is a living document on all things related to the Common Voice project. Com
 
 Feel free to make suggestions!
 
+# Current Release
 
-## Summary Statistics
+You can download the current release here: [Common Voice Download](https://voice.mozilla.org/en/datasets)
+
+## Release Date
+
+December 10, 2019
+
+## Language Statistics
 
 | LANGUAGE| # HOURS | # SPEAKERS | LANGUAGE FAMILY |
 | --- | --- | --- | --- |

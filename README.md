@@ -1,12 +1,18 @@
 # Common Voice
 
-This is a living document on all things related to the Common Voice project. Common Voice is released under a Creative Commons-0 license.
+This is a living document on all things related to the Common Voice project. 
 
 Feel free to make suggestions!
 
-# Current Release
+## Licensing
+
+Common Voice is released under a [Creative Commons-0](https://creativecommons.org/share-your-work/public-domain/cc0/) license.
+
+## Download
 
 You can download the current release here: [Common Voice Download](https://voice.mozilla.org/en/datasets)
+
+# Current Release
 
 ## Release Date
 

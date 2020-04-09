@@ -67,45 +67,49 @@ December 10, 2019
 
 ## Single-digit numbers + yes + no
 
+### Digits
+
+How would these be read if you were reading your credit card number out, digit-by-digit?
+
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [English](https://en.wikipedia.org/wiki/English_language) | | | | | | | | | | | |
-| [German](https://en.wikipedia.org/wiki/German_language) | | | | | | | | | | | |
-| [French](https://en.wikipedia.org/wiki/French_language) | | | | | | | | | | | |
-| [Welsh](https://en.wikipedia.org/wiki/Welsh_language) | | | | | | | | | | | |
-| [Breton](https://en.wikipedia.org/wiki/Breton_language) | | | | | | | | | | | |
-| [Chuvash](https://en.wikipedia.org/wiki/Chuvash_language) | | | | | | | | | | | |
-| [Turkish](https://en.wikipedia.org/wiki/Turkish_language) | | | | | | | | | | | |
-| [Tatar](https://en.wikipedia.org/wiki/Tatar_language) | | | | | | | | | | | |
-| [Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language) | | | | | | | | | | | |
-| [Irish](https://en.wikipedia.org/wiki/Irish_language) | | | | | | | | | | | |
-| [Kabyle](https://en.wikipedia.org/wiki/Kabyle_language) | | | | | | | | | | | |
-| [Catalan](https://en.wikipedia.org/wiki/Catalan_language) | | | | | | | | | | | |
-| [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin) | | | | | | | | | | | |
-| [Slovenian](https://en.wikipedia.org/wiki/Slovenian_language) | | | | | | | | | | | |
-| [Italian](https://en.wikipedia.org/wiki/Italian_language) | | | | | | | | | | | |
-| [Dutch](https://en.wikipedia.org/wiki/Dutch_language) | | | | | | | | | | | |
-| [Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language) | | | | | | | | | | | |
-| [Esperanto](https://en.wikipedia.org/wiki/Esperanto_language) | | | | | | | | | | | |
-| [Estonian](https://en.wikipedia.org/wiki/Estonian_language) | | | | | | | | | | | |
-| [Persian](https://en.wikipedia.org/wiki/Persian_language) | | | | | | | | | | | |
-| [Basque](https://en.wikipedia.org/wiki/Basque_language) | | | | | | | | | | | |
-| [Spanish](https://en.wikipedia.org/wiki/Spanish_language) | | | | | | | | | | | |
-| [Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language) | | | | | | | | | | | |
-| [Mongolian](https://en.wikipedia.org/wiki/Mongolian_language) | | | | | | | | | | | |
-| [Sakha](https://en.wikipedia.org/wiki/Yakut_language) | | | | | | | | | | | |
-| [Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language) | | | | | | | | | | | |
-| [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language) | | | | | | | | | | | |
-| [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | | | | | | | | | | | |
-| [Russian](https://en.wikipedia.org/wiki/Russian_language) | | | | | | | | | | | |
-| [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | | | | | | | | | | | |
-| [Arabic](https://en.wikipedia.org/wiki/Arabic_language) | | | | | | | | | | | |
-| [Tamil](https://en.wikipedia.org/wiki/Tamil_language) | | | | | | | | | | | |
-| [Interlingua](https://en.wikipedia.org/wiki/Interlingua) | | | | | | | | | | | |
-| [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language) | | | | | | | | | | | |
-| [Latvian](https://en.wikipedia.org/wiki/Latvian_language) | | | | | | | | | | | |
-| [Japanese](https://en.wikipedia.org/wiki/Japanese_language) | | | | | | | | | | | |
-| [Votic](https://en.wikipedia.org/wiki/Votic_language) | | | | | | | | | | | |
-| [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language) | | | | | | | | | | | |
-| [Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong) | | | | | | | | | | | |
-| [Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan) | | | | | | | | | | | |
+|[English](https://en.wikipedia.org/wiki/English_language)|zero|one|two|three|four|five|six|seven|eight|nine|yes|no|
+|[German](https://en.wikipedia.org/wiki/German_language)|zero|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|
+|[French](https://en.wikipedia.org/wiki/French_language)|zero|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|
+|[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||
+|[Breton](https://en.wikipedia.org/wiki/Breton_language)||unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|||
+|[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||
+|[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|
+|[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|нуль|бер|ике|өч|дүрт|биш|алты|Җиде|сигез|тугыз|әйе|юк|
+|[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|
+|[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||
+|[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language)|||||||||||||
+|[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|un|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|
+|[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||
+|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|||||||||||||
+|[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|
+|[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|
+|[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||
+|[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nulo|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|
+|[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|
+|R-->L[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|
+|[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|no|
+|[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|uno|dos|tres|quatro|cinco|seis|siete|ocho|neuve|sí|no|
+|[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|
+|[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|Долоо|найм|ес|тийм шүү|үгүй шүү|
+|[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||
+|[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||||
+|[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gautanu|gatandatu|umunane|icyenda||||
+|[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|
+|[Russian](https://en.wikipedia.org/wiki/Russian_language)|нуль|один|два|три|четыре|пять|шесть|Семь|восемь|девять|да|нет|
+|[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|iya|tidak|
+|R-->L[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|اثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسع|نعم|لا|
+|[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|
+|[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||
+|[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis|Sete|oito|nove|sim|não|
+|[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|
+|[Japanese](https://en.wikipedia.org/wiki/Japanese_language)|ゼロ|一つ|二|三|四|五|六|セブン|八|九|はい|番号|
+|[Votic](https://en.wikipedia.org/wiki/Votic_language)|||||||||||||
+|[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|||||||||||||
+|[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||
+|[Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan)|||||||||||||

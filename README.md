@@ -56,3 +56,50 @@ December 10, 2019
 | [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language) | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 2% female / 98% male) | Northwest Caucasian |
 | [Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | Sino-Tibetan |
 | [Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan) | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 0% female / 75% male) | Indo-European |
+
+
+
+## Single-digit numbers + yes + no
+
+| LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [English](https://en.wikipedia.org/wiki/English_language) | | | | | | | | | | | |
+| [German](https://en.wikipedia.org/wiki/German_language) | | | | | | | | | | | |
+| [French](https://en.wikipedia.org/wiki/French_language) | | | | | | | | | | | |
+| [Welsh](https://en.wikipedia.org/wiki/Welsh_language) | | | | | | | | | | | |
+| [Breton](https://en.wikipedia.org/wiki/Breton_language) | | | | | | | | | | | |
+| [Chuvash](https://en.wikipedia.org/wiki/Chuvash_language) | | | | | | | | | | | |
+| [Turkish](https://en.wikipedia.org/wiki/Turkish_language) | | | | | | | | | | | |
+| [Tatar](https://en.wikipedia.org/wiki/Tatar_language) | | | | | | | | | | | |
+| [Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language) | | | | | | | | | | | |
+| [Irish](https://en.wikipedia.org/wiki/Irish_language) | | | | | | | | | | | |
+| [Kabyle](https://en.wikipedia.org/wiki/Kabyle_language) | | | | | | | | | | | |
+| [Catalan](https://en.wikipedia.org/wiki/Catalan_language) | | | | | | | | | | | |
+| [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin) | | | | | | | | | | | |
+| [Slovenian](https://en.wikipedia.org/wiki/Slovenian_language) | | | | | | | | | | | |
+| [Italian](https://en.wikipedia.org/wiki/Italian_language) | | | | | | | | | | | |
+| [Dutch](https://en.wikipedia.org/wiki/Dutch_language) | | | | | | | | | | | |
+| [Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language) | | | | | | | | | | | |
+| [Esperanto](https://en.wikipedia.org/wiki/Esperanto_language) | | | | | | | | | | | |
+| [Estonian](https://en.wikipedia.org/wiki/Estonian_language) | | | | | | | | | | | |
+| [Persian](https://en.wikipedia.org/wiki/Persian_language) | | | | | | | | | | | |
+| [Basque](https://en.wikipedia.org/wiki/Basque_language) | | | | | | | | | | | |
+| [Spanish](https://en.wikipedia.org/wiki/Spanish_language) | | | | | | | | | | | |
+| [Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language) | | | | | | | | | | | |
+| [Mongolian](https://en.wikipedia.org/wiki/Mongolian_language) | | | | | | | | | | | |
+| [Sakha](https://en.wikipedia.org/wiki/Yakut_language) | | | | | | | | | | | |
+| [Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language) | | | | | | | | | | | |
+| [Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language) | | | | | | | | | | | |
+| [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | | | | | | | | | | | |
+| [Russian](https://en.wikipedia.org/wiki/Russian_language) | | | | | | | | | | | |
+| [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | | | | | | | | | | | |
+| [Arabic](https://en.wikipedia.org/wiki/Arabic_language) | | | | | | | | | | | |
+| [Tamil](https://en.wikipedia.org/wiki/Tamil_language) | | | | | | | | | | | |
+| [Interlingua](https://en.wikipedia.org/wiki/Interlingua) | | | | | | | | | | | |
+| [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language) | | | | | | | | | | | |
+| [Latvian](https://en.wikipedia.org/wiki/Latvian_language) | | | | | | | | | | | |
+| [Japanese](https://en.wikipedia.org/wiki/Japanese_language) | | | | | | | | | | | |
+| [Votic](https://en.wikipedia.org/wiki/Votic_language) | | | | | | | | | | | |
+| [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language) | | | | | | | | | | | |
+| [Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong) | | | | | | | | | | | |
+| [Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan) | | | | | | | | | | | |

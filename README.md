@@ -96,7 +96,7 @@ How would these be read if you were reading your credit card number out, digit-b
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |R-->L[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|NO|
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|no|NO|
-|[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|uno|dos|tres|quatro|cinco|seis|siete|ocho|neuve|sí|no|NO|
+|[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|NO|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|
 |[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|Долоо|найм|ес|тийм шүү|үгүй шүү|NO|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|

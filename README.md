@@ -71,7 +71,9 @@ WARNING: these words, numbers, and spellings are not guaranteed to be correct.
 
 ### Digits
 
-How would these be read if you were reading your credit card number out, digit-by-digit?
+How would these numbers be read if you were counting out loud or if you were reading a number out loud digit-by-digit?
+
+How would the yes/no be said if you were answering a simple question?
 
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no | native speaker verified? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

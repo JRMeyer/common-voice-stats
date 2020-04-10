@@ -92,7 +92,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||NO|
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|||||||||||||NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|
-|[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|NO|
+|[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nulo|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|NO|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|

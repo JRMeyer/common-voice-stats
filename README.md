@@ -78,7 +78,7 @@ How would the yes/no be said if you were answering a simple question?
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no | native speaker verified? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[English](https://en.wikipedia.org/wiki/English_language)|zero|one|two|three|four|five|six|seven|eight|nine|yes|no|YES|
-|[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|NO|
+|[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|NO|
 |[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||NO|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)||unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|||NO|

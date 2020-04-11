@@ -107,7 +107,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|NO|
 |[Russian](https://en.wikipedia.org/wiki/Russian_language)|ноль|один|два|три|четыре|пять|шесть|семь|восемь|девять|да|нет|YES|
 |[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|iya|tidak|NO|
-|[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|NO|
+|[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis[ptr-br also use "meia"]|sete|oito|nove|sim|não|YES|

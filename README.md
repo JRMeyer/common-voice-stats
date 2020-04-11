@@ -100,7 +100,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|NO|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|
-|[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|Долоо|найм|ес|тийм шүү|үгүй шүү|NO|
+|[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|долоо|найм|ес|тийм шүү|үгүй шүү|NO|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gautanu|gatandatu|umunane|icyenda||||NO|

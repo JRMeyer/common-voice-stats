@@ -117,3 +117,5 @@ How would the yes/no be said if you were answering a simple question?
 |[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|||||||||||||NO|
 |[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
 |[Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan)|||||||||||||NO|
+|[Polish](https://en.wikipedia.org/wiki/Polish_language)|zero|jeden|dwa|trzy|cztery|pięć|sześć|siedem|osiem|dziewięć|tak|nie|YES|
+

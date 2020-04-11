@@ -79,9 +79,9 @@ How would the yes/no be said if you were answering a simple question?
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[English](https://en.wikipedia.org/wiki/English_language)|zero|one|two|three|four|five|six|seven|eight|nine|yes|no|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
-|[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|NO|
+|[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
 |[Welsh](https://en.wikipedia.org/wiki/Welsh_language)||un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||NO|
-|[Breton](https://en.wikipedia.org/wiki/Breton_language)||unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|||NO|
+|[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
 |[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
 |[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|YES|
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|NO|
@@ -97,7 +97,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nulo|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|NO|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|NO|
-|[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|no|NO|
+|[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|NO|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|
 |[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|Долоо|найм|ес|тийм шүү|үгүй шүү|NO|
@@ -110,7 +110,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|اثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسع|نعم|لا|NO|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
-|[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis|Sete|oito|nove|sim|não|NO|
+|[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis[ptr-br also use "meia"]|sete|oito|nove|sim|não|YES|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
 |[Japanese](https://en.wikipedia.org/wiki/Japanese_language)|ゼロ|一つ|二|三|四|五|六|セブン|八|九|はい|番号|NO|
 |[Votic](https://en.wikipedia.org/wiki/Votic_language)|||||||||||||NO|

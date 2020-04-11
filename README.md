@@ -80,17 +80,17 @@ How would the yes/no be said if you were answering a simple question?
 |[English](https://en.wikipedia.org/wiki/English_language)|zero|one|two|three|four|five|six|seven|eight|nine|yes|no|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|NO|
-|[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||NO|
+|[Welsh](https://en.wikipedia.org/wiki/Welsh_language)||un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||NO|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)||unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|||NO|
 |[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
 |[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|NO|
-|[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|нуль|бер|ике|өч|дүрт|биш|алты|Җиде|сигез|тугыз|әйе|юк|NO|
+|[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|NO|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
 |[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language)|||||||||||||NO|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|un|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|NO|
 |[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||NO|
-|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|||||||||||||NO|
+|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvé|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|
 |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|

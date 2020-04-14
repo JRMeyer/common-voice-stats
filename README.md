@@ -88,7 +88,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
 |[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language)|||||||||||||NO|
-|[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|un|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|NO|
+|[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
 |[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||NO|
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvé|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|

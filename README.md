@@ -112,7 +112,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis[ptr-br also use "meia"]|sete|oito|nove|sim|não|YES|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
-|[Japanese](https://en.wikipedia.org/wiki/Japanese_language)|ゼロ|一つ|二|三|四|五|六|セブン|八|九|はい|番号|NO|
+|[Japanese](https://en.wikipedia.org/wiki/Japanese_language)|れい / まる|いち / ひと|に / ふた|さん / み|し / よ|ご / いつ|ろく / む|しち / なな|はち / や|く / ここの|はい / うん|いいえ / いや|YES|
 |[Votic](https://en.wikipedia.org/wiki/Votic_language)|||||||||||||NO|
 |[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|||||||||||||NO|
 |[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|

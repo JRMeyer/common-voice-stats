@@ -94,7 +94,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|
-|[Japanese](https://en.wikipedia.org/wiki/Japanese_language)|れい / まる|いち / ひと|に / ふた|さん / み|し / よ|ご / いつ|ろく / む|しち / なな|はち / や|く / ここの|はい / うん|いいえ / いや|YES|
+|[Japanese](https://en.wikipedia.org/wiki/Japanese_language) [Formal / Informal] |れい / まる|いち / ひと|に / ふた|さん / み|し / よ|ご / いつ|ろく / む|しち / なな|はち / や|く / ここの|はい / うん|いいえ / いや|YES|
 |[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language)|||||||||||||NO|
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gautanu|gatandatu|umunane|icyenda||||NO|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|

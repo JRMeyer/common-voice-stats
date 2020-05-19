@@ -4,6 +4,15 @@ This is a living document on all things related to the Common Voice project.
 
 Feel free to make suggestions!
 
+## How to contribute to Numbers + Yes/No
+
+If you want to help with the numbers + yes/no data collection project, you're in the right place! There's three ways to contribute:
+
+1. You don't have a Github account: send an email to me at <joshua.richard.meyer@gmail.com> with (1) language name, (2) the words you're contributing `{english_word: your_translation}`, and (3) `YES/NO` are you a native speaker of the language.
+2. You don't want to send a Pull Request: Leave a Github Issue with the same info as above.
+3. Send a Pull Request (preferred): send your changes in the table as a PR.
+
+
 ## Licensing
 
 Common Voice is released under a [Creative Commons-0](https://creativecommons.org/share-your-work/public-domain/cc0/) license.

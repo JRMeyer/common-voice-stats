@@ -89,7 +89,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
-|[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
+|[Cantonese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
 |[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
 |[Danish](https://en.wikipedia.org/wiki/Danish_language)|nul|en|to|tree|fire|fem|seks|syv|otte|ni|ja|nej|YES|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|
@@ -109,7 +109,8 @@ How would the yes/no be said if you were answering a simple question?
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gautanu|gatandatu|umunane|icyenda||||NO|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
-|[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|
+|[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|否|NO|
+|[Mandarin (Taiwan)](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|零|一|二|三|四|五|六|七|八|九|是|否|YES|
 |[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|долоо|найм|ес|тийм шүү|үгүй шүү|NO|
 |[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|NO|
 |[Polish](https://en.wikipedia.org/wiki/Polish_language)|zero|jeden|dwa|trzy|cztery|pięć|sześć|siedem|osiem|dziewięć|tak|nie|YES|
@@ -120,7 +121,6 @@ How would the yes/no be said if you were answering a simple question?
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvé|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|NO|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|NO|
-|[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||NO|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|YES|
 |[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|YES|

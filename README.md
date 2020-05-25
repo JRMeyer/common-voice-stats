@@ -85,7 +85,7 @@ How would the yes/no be said if you were answering a simple question?
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no | native speaker verified? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|акымзарак|акы|ҩба|хԥа|ԥшьба|хәба|фба|быжьба|ааба|жәба|ааи|мап|YES|
-|[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|لا|نعم|تسعة|ثمانية|سبعة|ستة|خمسة|أربعة|ثلاثة|إثنان|واحد|صفر|YES|
+|[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|

@@ -4,15 +4,6 @@ This is a living document on all things related to the Common Voice project.
 
 Feel free to make suggestions!
 
-## How to contribute to Numbers + Yes/No
-
-If you want to help with the numbers + yes/no data collection project, you're in the right place! There's three ways to contribute:
-
-1. You don't have a Github account: send an email to me at <joshua.richard.meyer@gmail.com> with (1) language name, (2) the words you're contributing `{english_word: your_translation}`, and (3) `YES/NO` are you a native speaker of the language.
-2. You don't want to send a Pull Request: Leave a Github Issue with the same info as above.
-3. Send a Pull Request (preferred): send your changes in the table as a PR.
-
-
 ## Licensing
 
 Common Voice is released under a [Creative Commons-0](https://creativecommons.org/share-your-work/public-domain/cc0/) license.
@@ -86,27 +77,26 @@ How would the yes/no be said if you were answering a simple question?
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|||||||||||||NO|
 |[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
-|[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
+|[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|NO|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
 |[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
 |[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
-|[Danish](https://en.wikipedia.org/wiki/Danish_language)|nul|en|to|tree|fire|fem|seks|syv|otte|ni|ja|nej|YES|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|
 |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|YES|
 |[English](https://en.wikipedia.org/wiki/English_language)|zero|one|two|three|four|five|six|seven|eight|nine|yes|no|YES|
-|[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nul|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|YES|
+|[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nulo|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|NO|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
-|[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|iya|tidak|YES|
+|[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|iya|tidak|NO|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|
 |[Japanese](https://en.wikipedia.org/wiki/Japanese_language) [Formal / Informal] |れい / まる|いち / ひと|に / ふた|さん / み|し / よ|ご / いつ|ろく / む|しち / なな|はち / や|く / ここの|はい / うん|いいえ / いや|YES|
 |[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language)|||||||||||||NO|
-|[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gautanu|gatandatu|umunane|icyenda||||NO|
+|[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gatanu|gatandatu|karindwi|umunani|icyenda|yego|oya|Yes|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|

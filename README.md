@@ -91,6 +91,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
 |[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
 |[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
+|[Czech](https://en.wikipedia.org/wiki/Czech_language)|nula|jedna|dva|tři|čtyři|pět|šest|sedm|osm|devět|ano|ne|YES|
 |[Danish](https://en.wikipedia.org/wiki/Danish_language)|nul|en|to|tree|fire|fem|seks|syv|otte|ni|ja|nej|YES|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|
 |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|YES|

@@ -36,7 +36,7 @@ December 10, 2019
 | [Basque](https://en.wikipedia.org/wiki/Basque_language) | 65 hours (validated); 99 hours (total) | 638 speakers (reported: 23% female / 51% male) | Language Isolate|
 | [Breton](https://en.wikipedia.org/wiki/Breton_language) | 5 hours (validated); 12 hours (total) | 133 speakers (reported: 2% female / 55% male) | Indo-European|
 | [Catalan](https://en.wikipedia.org/wiki/Catalan_language)  | 245 hours (validated); 295 hours (total) | 3,724 speakers (reported: 35% female / 43% male) | Indo-European |
-| [Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | Sino-Tibetan |
+| [Cantonese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong) | <1 hours (validated); <1 hours (total) | 15 speakers (reported: 24% female / 37% male) | Sino-Tibetan |
 | [Chuvash](https://en.wikipedia.org/wiki/Chuvash_language) | <1 hour (validated); 2 hours (total) | 38 speakers (reported: 0% female / 47% male) | Turkic |
 | [Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language) | 6 hours (validated); 8 hours (total) | 101 speakers (reported: 64% female / 28% male) |Indo-European |
 | [Dutch](https://en.wikipedia.org/wiki/Dutch_language) | 24 hours (validated); 33 hours (total) | 701 speakers (reported: 10% female / 66% male) |Indo-European |
@@ -56,6 +56,7 @@ December 10, 2019
 | [Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)  | 11 hours (validated); 21 hours (total) | 119 speakers (reported: 44% female / 45% male) | Turkic|
 | [Latvian](https://en.wikipedia.org/wiki/Latvian_language) | 4 hours (validated); 6 hours (total) | 86 speakers (reported: 17% female / 64% male) |Indo-European |
 | [Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language) | 26 hours (validated); 31 hours (total) | 963 speakers (reported: 10% female / 64% male) | Sino-Tibetan|
+| [Mandarin (Taiwan)](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)  | 42 hours (validated); 60 hours (total) | 1,108 speakers (reported: 26% female / 48% male) | Sino-Tibetan |
 | [Mongolian](https://en.wikipedia.org/wiki/Mongolian_language) | 9 hours (validated); 12 hours (total) | 296 speakers (reported: 25% female / 36% male) |Mongolic|
 | [Persian](https://en.wikipedia.org/wiki/Persian_language) | 211 hours (validated); 255 hours (total) | 2,763 speakers (reported: 6% female / 78% male) |Indo-European |
 | [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language) | 27 hours (validated); 29 hours (total) | 354 speakers (reported: 2% female / 89% male) | Indo-European |
@@ -65,7 +66,6 @@ December 10, 2019
 | [Slovenian](https://en.wikipedia.org/wiki/Slovenian_language) | 3 hour (validated); 6 hours (total) | 51 speakers (reported: 16% female / 80% male) | Indo-European|
 | [Spanish](https://en.wikipedia.org/wiki/Spanish_language) | 167 hours (validated); 221 hours (total) | 8,252 speakers (reported: 10% female / 55% male) | Indo-European|
 | [Swedish](https://en.wikipedia.org/wiki/Swedish_language) | 5 hours (validated); 6 hours (total) | 99 speakers (reported: 8% female / 74% male) |Indo-European |
-| [Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)  | 42 hours (validated); 60 hours (total) | 1,108 speakers (reported: 26% female / 48% male) | Sino-Tibetan |
 | [Tamil](https://en.wikipedia.org/wiki/Tamil_language) | 3 hours (validated); 4 hours (total) | 91 speakers (reported: 10% female / 67% male) | Dravidian |
 | [Tatar](https://en.wikipedia.org/wiki/Tatar_language)  | 25 hours (validated); 27 hours (total) | 142 speakers (reported: 2% female / 81% male) | Turkic|
 | [Turkish](https://en.wikipedia.org/wiki/Turkish_language) | 13 hours (validated); 14 hours (total) | 461 speakers (reported: 8% female / 74% male) | Turkic |

@@ -57,6 +57,7 @@ December 10, 2019
 | [Latvian](https://en.wikipedia.org/wiki/Latvian_language) | 4 hours (validated); 6 hours (total) | 86 speakers (reported: 17% female / 64% male) |Indo-European |
 | [Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language) | 26 hours (validated); 31 hours (total) | 963 speakers (reported: 10% female / 64% male) | Sino-Tibetan|
 | [Mongolian](https://en.wikipedia.org/wiki/Mongolian_language) | 9 hours (validated); 12 hours (total) | 296 speakers (reported: 25% female / 36% male) |Mongolic|
+| [Odia](https://en.wikipedia.org/wiki/Odia_language) | 0.8 hours (validated); 1.2 hours (total) | 9 speakers (reported: 13% female / 46% male) | Indo-European |
 | [Persian](https://en.wikipedia.org/wiki/Persian_language) | 211 hours (validated); 255 hours (total) | 2,763 speakers (reported: 6% female / 78% male) |Indo-European |
 | [Portuguese](https://en.wikipedia.org/wiki/Portuguese_language) | 27 hours (validated); 29 hours (total) | 354 speakers (reported: 2% female / 89% male) | Indo-European |
 | [Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan) | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 0% female / 75% male) | Indo-European |
@@ -111,6 +112,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|没有|NO|
 |[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|долоо|найм|ес|тийм шүү|үгүй шүү|NO|
+|[Odia](https://en.wikipedia.org/wiki/ODIA_language)|ଶୂନ|ଏକ|ଦୁଇ|ତିନି|ଚାରି|ପାଞ୍ଚ|ଛଅ|ସାତ|ଆଠ|ନଅ|ହଁ|ନା|YES|
 |[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|NO|
 |[Polish](https://en.wikipedia.org/wiki/Polish_language)|zero|jeden|dwa|trzy|cztery|pięć|sześć|siedem|osiem|dziewięć|tak|nie|YES|
 |[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis[ptr-br also use "meia"]|sete|oito|nove|sim|não|YES|

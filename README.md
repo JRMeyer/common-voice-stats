@@ -117,7 +117,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan)|||||||||||||NO|
 |[Russian](https://en.wikipedia.org/wiki/Russian_language)|ноль|один|два|три|четыре|пять|шесть|семь|восемь|девять|да|нет|YES|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|
-|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvé|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|NO|
+|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvá|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|YES|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|NO|
 |[Taiwanese Mandarin](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|||||||||||||NO|

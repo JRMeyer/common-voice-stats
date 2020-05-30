@@ -90,7 +90,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
 |[Chinese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|||||||||||||NO|
-|[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
+|[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|пӗрре|иккӗ|виҫҫӗ|тӑваттӑ|пиллӗк|улттӑ|ҫиччӗ|саккӑр|тӑххӑр|вуннӑ|ҫапла|ҫук|YES|
 |[Danish](https://en.wikipedia.org/wiki/Danish_language)|nul|en|to|tree|fire|fem|seks|syv|otte|ni|ja|nej|YES|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|
 |[Dutch](https://en.wikipedia.org/wiki/Dutch_language)|nul|één|twee|drie|vier|vijf|zes|zeven|acht|negen|ja|nee|YES|

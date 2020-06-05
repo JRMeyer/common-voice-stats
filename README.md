@@ -32,7 +32,7 @@ December 10, 2019
 | LANGUAGE| # HOURS | # SPEAKERS | LANGUAGE FAMILY |
 | --- | --- | --- | --- |
 | [Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language) | <1 hours (validated); <1 hours (total) | 3 speakers (reported: 2% female / 98% male) | Northwest Caucasian |
-| [Arabic](https://en.wikipedia.org/wiki/Arabic_language) | 7 ours (validated); 12 hours (total) | 228 speakers (reported: 24% female / 48% male) | Afro-Asiatic |
+| [Arabic](https://en.wikipedia.org/wiki/Arabic_language) | 7 hours (validated); 12 hours (total) | 228 speakers (reported: 24% female / 48% male) | Afro-Asiatic |
 | [Basque](https://en.wikipedia.org/wiki/Basque_language) | 65 hours (validated); 99 hours (total) | 638 speakers (reported: 23% female / 51% male) | Language Isolate|
 | [Breton](https://en.wikipedia.org/wiki/Breton_language) | 5 hours (validated); 12 hours (total) | 133 speakers (reported: 2% female / 55% male) | Indo-European|
 | [Catalan](https://en.wikipedia.org/wiki/Catalan_language)  | 245 hours (validated); 295 hours (total) | 3,724 speakers (reported: 35% female / 43% male) | Indo-European |
@@ -84,7 +84,7 @@ How would the yes/no be said if you were answering a simple question?
 
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no | native speaker verified? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|||||||||||||NO|
+|[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|акымзарак|акы|ҩба|хԥа|ԥшьба|хәба|фба|быжьба|ааба|жәба|ааи|мап|YES|
 |[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|

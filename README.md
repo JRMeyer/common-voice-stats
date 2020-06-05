@@ -101,7 +101,7 @@ How would the yes/no be said if you were answering a simple question?
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
-|[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|iya|tidak|YES|
+|[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|ya|tidak|YES|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|
 |[Irish](https://en.wikipedia.org/wiki/Irish_language)|a náid|a haon|a dó|a trí|a ceathair|a cúig|a sé|a seacht|a hocht|a naoi|||NO|
 |[Italian](https://en.wikipedia.org/wiki/Italian_language)|zero|uno|due|tre|quattro|cinque|sei|sette|otto|nove|sì|no|NO|

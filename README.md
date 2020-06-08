@@ -89,9 +89,9 @@ How would the yes/no be said if you were answering a simple question?
 |[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|NO|
-|[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
 |[Cantonese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|零|一|二|三|四|五|六|七|八|九|係|唔係|YES|
-|[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|||||||||||||NO|
+|[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|
+|[Chuvash](https://en.wikipedia.org/wiki/Chuvash_language)|пӗрре|иккӗ|виҫҫӗ|тӑваттӑ|пиллӗк|улттӑ|ҫиччӗ|саккӑр|тӑххӑр|вуннӑ|ҫапла|ҫук|YES|
 |[Czech](https://en.wikipedia.org/wiki/Czech_language)|nula|jedna|dva|tři|čtyři|pět|šest|sedm|osm|devět|ano|ne|YES|
 |[Danish](https://en.wikipedia.org/wiki/Danish_language)|nul|en|to|tre|fire|fem|seks|syv|otte|ni|ja|nej|YES|
 |[Dhivehi](https://en.wikipedia.org/wiki/Dhivehi_language)|||||||||||އާ|ނޫން|NO|

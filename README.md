@@ -99,6 +99,7 @@ How would the yes/no be said if you were answering a simple question?
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nul|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|YES|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
+|[Georgian](https://en.wikipedia.org/wiki/Georgian_language)|ნული|ერთი|ორი|სამი|ოთხი|ხუთი|ექვსი|შვიდი|რვა|ცხრა|დიახ|არა|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
 |[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|ya|tidak|YES|

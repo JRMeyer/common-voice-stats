@@ -77,11 +77,11 @@ December 10, 2019
 
 WARNING: these words, numbers, and spellings are not guaranteed to be correct.
 
-### Digits
+### Use Case
 
-How would these numbers be read if you were counting out loud or if you were reading a number out loud digit-by-digit?
+The intended use-case is talking to an automated system over the phone. In this case, how would these numbers be read if you were talking to a voice-bot, counting out loud, or reading a long number out loud digit-by-digit?
 
-How would the yes/no be said if you were answering a simple question?
+For YES/NO, how would you say "yes" or "no" if you were answering a simple question, like, "Would you like to check your account balance?"
 
 | LANGUAGE | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | yes | no | native speaker verified? |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

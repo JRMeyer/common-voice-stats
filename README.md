@@ -129,4 +129,4 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|YES|
 |[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|YES|
 |[Votic](https://en.wikipedia.org/wiki/Votic_language)|||||||||||||NO|
-|[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|sero / dim|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|||YES|
+|[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|sero / dim|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|N/A|N/A|YES|

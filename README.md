@@ -110,7 +110,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Japanese](https://en.wikipedia.org/wiki/Japanese_language) [Formal / Informal] |れい / まる|いち / ひと|に / ふた|さん / み|し / よ|ご / いつ|ろく / む|しち / なな|はち / や|く / ここの|はい / うん|いいえ / いや|YES|
 |[Kabyle](https://en.wikipedia.org/wiki/Kabyle_language) [Formal / Informal]|ilem|yiwen|sin|kraḍ/tlata|kuẓ/ṛebɛa|semmus/xemsa|sḍis/setta|sa/sebɛa|ṭam/tmenya|tẓa/tesɛa|ih|uhu|YES|
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gatanu|gatandatu|karindwi|umunani|icyenda|yego|oya|Yes|
-|[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|NO|
+|[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|YES|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|否|NO|
 |[Mandarin (Taiwan)](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|零|一|二|三|四|五|六|七|八|九|是|否|YES|

@@ -21,7 +21,7 @@ Common Voice is released under a [Creative Commons-0](https://creativecommons.or
 
 You can download the current release here: [Common Voice Download](https://voice.mozilla.org/en/datasets)
 
-# Current Release
+# Previous Release
 
 ## Release Date
 
@@ -44,7 +44,6 @@ December 10, 2019
 | [Esperanto](https://en.wikipedia.org/wiki/Esperanto_language) | 35 hours (validated); 41 hours (total) | 215 speakers (reported: 7% female / 70% male) | Indo-European |
 | [Estonian](https://en.wikipedia.org/wiki/Estonian_language) | 10 hours (validated); 13 hours (total) | 230 speakers (reported: 38% female / 57% male) |Uralic |
 | [French](https://en.wikipedia.org/wiki/French_language) | 350 hours (validated); 412 hours (total) | 8,164 speakers (reported: 12% female / 65% male) | Indo-European |
-| [Frisian](https://en.wikipedia.org/wiki/West_Frisian_language) | 9 hours (validated); 27 hours (total) | 222 speakers (reported: 36% female / 11% male) |Indo-European |
 | [German](https://en.wikipedia.org/wiki/German_language) | 483 hours (validated); 538 hours (total) | 8,460 speakers (reported: 9% female / 67% male) | Indo-European |
 | [Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language) | 2 hours (validated); 5 hours (total) | 290 speakers (reported: 20% female / 23% male) | Sino-Tibetan|
 | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | 3 hours (validated); 3 hours (total) | 56 speakers (reported: 4% female / 82% male) | Austronesian |
@@ -73,6 +72,19 @@ December 10, 2019
 | [Turkish](https://en.wikipedia.org/wiki/Turkish_language) | 13 hours (validated); 14 hours (total) | 461 speakers (reported: 8% female / 74% male) | Turkic |
 | [Votic](https://en.wikipedia.org/wiki/Votic_language) | <1 hours (validated); <1 hours (total) | 2 speakers (reported: 0% female / 0% male) | Uralic |
 | [Welsh](https://en.wikipedia.org/wiki/Welsh_language) | 59 hours (validated); 77 hours (total) | 1,149 speakers (reported: 18% female / 29% male) | Indo-European |
+
+# Current Release
+
+## Release Date
+
+June 22, 2020
+
+## Language Statistics
+
+| LANGUAGE| # HOURS | # SPEAKERS | LANGUAGE FAMILY |
+| --- | --- | --- | --- |
+| [Frisian](https://en.wikipedia.org/wiki/West_Frisian_language) | 9 hours (validated); 27 hours (total) | 222 speakers (reported: 36% female / 11% male) |Indo-European |
+
 
 ## Single-digit numbers + yes + no
 

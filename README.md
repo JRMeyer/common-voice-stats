@@ -21,7 +21,7 @@ Common Voice is released under a [Creative Commons-0](https://creativecommons.or
 
 You can download the current release here: [Common Voice Download](https://voice.mozilla.org/en/datasets)
 
-# Current Release
+# Previous Release
 
 ## Release Date
 
@@ -73,6 +73,19 @@ December 10, 2019
 | [Votic](https://en.wikipedia.org/wiki/Votic_language) | <1 hours (validated); <1 hours (total) | 2 speakers (reported: 0% female / 0% male) | Uralic |
 | [Welsh](https://en.wikipedia.org/wiki/Welsh_language) | 59 hours (validated); 77 hours (total) | 1,149 speakers (reported: 18% female / 29% male) | Indo-European |
 
+# Current Release
+
+## Release Date
+
+June 22, 2020
+
+## Language Statistics
+
+| LANGUAGE| # HOURS | # SPEAKERS | LANGUAGE FAMILY |
+| --- | --- | --- | --- |
+| [Frisian](https://en.wikipedia.org/wiki/West_Frisian_language) | 9 hours (validated); 27 hours (total) | 222 speakers (reported: 36% female / 11% male) |Indo-European |
+
+
 ## Single-digit numbers + yes + no
 
 WARNING: these words, numbers, and spellings are not guaranteed to be correct.
@@ -100,6 +113,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nul|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|YES|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
+|[Frisian](https://en.wikipedia.org/wiki/West_Frisian_language)|nul|ien|twa|trije|fjouwer|fiif|seis|sân|acht|njoggen|ja|nee|YES|
 |[Georgian](https://en.wikipedia.org/wiki/Georgian_language)|ნული|ერთი|ორი|სამი|ოთხი|ხუთი|ექვსი|შვიდი|რვა|ცხრა|დიახ|არა|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|

@@ -44,6 +44,7 @@ December 10, 2019
 | [Esperanto](https://en.wikipedia.org/wiki/Esperanto_language) | 35 hours (validated); 41 hours (total) | 215 speakers (reported: 7% female / 70% male) | Indo-European |
 | [Estonian](https://en.wikipedia.org/wiki/Estonian_language) | 10 hours (validated); 13 hours (total) | 230 speakers (reported: 38% female / 57% male) |Uralic |
 | [French](https://en.wikipedia.org/wiki/French_language) | 350 hours (validated); 412 hours (total) | 8,164 speakers (reported: 12% female / 65% male) | Indo-European |
+| [Frisian](https://en.wikipedia.org/wiki/West_Frisian_language) | 9 hours (validated); 27 hours (total) | 222 speakers (reported: 36% female / 11% male) |Indo-European |
 | [German](https://en.wikipedia.org/wiki/German_language) | 483 hours (validated); 538 hours (total) | 8,460 speakers (reported: 9% female / 67% male) | Indo-European |
 | [Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language) | 2 hours (validated); 5 hours (total) | 290 speakers (reported: 20% female / 23% male) | Sino-Tibetan|
 | [Indonesian](https://en.wikipedia.org/wiki/Indonesian_language) | 3 hours (validated); 3 hours (total) | 56 speakers (reported: 4% female / 82% male) | Austronesian |
@@ -100,6 +101,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Esperanto](https://en.wikipedia.org/wiki/Esperanto_language)|nul|unu|du|tri|kvar|kvin|ses|sep|ok|naŭ|jes|ne|YES|
 |[Estonian](https://en.wikipedia.org/wiki/Estonian_language)|null|üks|kaks|kolm|neli|viis|kuus|seitse|kaheksa|üheksa|jah|ei|NO|
 |[French](https://en.wikipedia.org/wiki/French_language)|zéro|un|deux|trois|quatre|cinq|six|sept|huit|neuf|oui|non|YES|
+|[Frisian](https://en.wikipedia.org/wiki/West_Frisian_language)|nul|ien|twa|trije|fjouwer|fiif|seis|sân|acht|njoggen|ja|nee|YES|
 |[Georgian](https://en.wikipedia.org/wiki/Georgian_language)|ნული|ერთი|ორი|სამი|ოთხი|ხუთი|ექვსი|შვიდი|რვა|ცხრა|დიახ|არა|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|

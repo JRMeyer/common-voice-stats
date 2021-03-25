@@ -102,6 +102,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Abkhaz](https://en.wikipedia.org/wiki/Abkhaz_language)|акымзарак|акы|ҩба|хԥа|ԥшьба|хәба|фба|быжьба|ааба|жәба|ааи|мап|YES|
 |[Arabic](https://en.wikipedia.org/wiki/Arabic_language)|صفر|واحد|إثنان|ثلاثة|أربعة|خمسة|ستة|سبعة|ثمانية|تسعة|نعم|لا|YES|
 |[Basque](https://en.wikipedia.org/wiki/Basque_language)|zero|bat|bi|hiru|lau|bost|sei|zazpi|zortzi|bederatzi|bai|ez|YES|
+|[Bashkir](https://en.wikipedia.org/wiki/Bashkir_language)|ноль|бер|ике|өс|дүрт|биш|алты|ете|һигеҙ|туғыҙ|эйе|юҡ|YES|
 |[Breton](https://en.wikipedia.org/wiki/Breton_language)|mann|unan|daou|tri|pevar|pemp|c'hwec'h|seizh|eizh|nav|ya|nann|YES|
 |[Cantonese (Hong Kong)](https://en.wikipedia.org/wiki/Languages_of_Hong_Kong)|零|一|二|三|四|五|六|七|八|九|係|唔係|YES|
 |[Catalan](https://en.wikipedia.org/wiki/Catalan_language)|zero|u|dos|tres|quatre|cinc|sis|set|vuit|nou|sí|no|YES|

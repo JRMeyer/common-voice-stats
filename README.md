@@ -120,6 +120,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Galician](https://en.wikipedia.org/wiki/Galician)|cero|un|dous|tres|catro|cinco|seis|sete|oito|nove|si|non|YES|
 |[Georgian](https://en.wikipedia.org/wiki/Georgian_language)|ნული|ერთი|ორი|სამი|ოთხი|ხუთი|ექვსი|შვიდი|რვა|ცხრა|დიახ|არა|YES|
 |[German](https://en.wikipedia.org/wiki/German_language)|null|eins|zwei|drei|vier|fünf|sechs|sieben|acht|neun|ja|nein|YES|
+|[Greek](https://en.wikipedia.org/wiki/Greek_language)|μηδέν|ένα|δύο|τρία|τέσσερα|πέντε|έξι|επτά|οκτώ|εννέα|ναί|όχι|NO|
 |[Hakha Chin](https://en.wikipedia.org/wiki/Hakha_Chin_language)|||||||||||||NO|
 |[Indonesian](https://en.wikipedia.org/wiki/Indonesian_language)|nol|satu|dua|tiga|empat|lima|enam|tujuh|delapan|sembilan|ya|tidak|YES|
 |[Interlingua](https://en.wikipedia.org/wiki/Interlingua)|||||||||||||NO|

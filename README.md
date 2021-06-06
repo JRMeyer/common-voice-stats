@@ -146,7 +146,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Romanian](https://en.wikipedia.org/wiki/Romanian_language)|zero|unu|două|trei|patru|cinci|șase|șapte|opt|nouă|da|nu|NO|
 |[Russian](https://en.wikipedia.org/wiki/Russian_language)|ноль|один|два|три|четыре|пять|шесть|семь|восемь|девять|да|нет|YES|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|
-|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nič|ena|dve|tri|štiri|pet|šest|sedem|osem|devet|ja|ne|NO|
+|[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nič|ena|dva|tri|štiri|pet|šest|sedem|osem|devet|ja|ne|NO|
 |[Spanish](https://en.wikipedia.org/wiki/Spanish_language)|cero|uno|dos|tres|cuatro|cinco|seis|siete|ocho|nueve|sí|no|YES|
 |[Swedish](https://en.wikipedia.org/wiki/Swedish_language)|noll|ett|två|tre|fyra|fem|sex|sju|åtta|nio|ja|nej|YES|
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|

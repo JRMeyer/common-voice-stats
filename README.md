@@ -143,6 +143,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Polish](https://en.wikipedia.org/wiki/Polish_language)|zero|jeden|dwa|trzy|cztery|pięć|sześć|siedem|osiem|dziewięć|tak|nie|YES|
 |[Portuguese](https://en.wikipedia.org/wiki/Portuguese_language)|zero|um|dois|três|quatro|cinco|seis[ptr-br also use "meia"]|sete|oito|nove|sim|não|YES|
 |[Romansh Sursilvan](https://en.wikipedia.org/wiki/Sursilvan)|||||||||||||NO|
+|[Romanian](https://en.wikipedia.org/wiki/Romanian_language)|zero|unu|două|trei|patru|cinci|șase|șapte|opt|nouă|da|nu|NO|
 |[Russian](https://en.wikipedia.org/wiki/Russian_language)|ноль|один|два|три|четыре|пять|шесть|семь|восемь|девять|да|нет|YES|
 |[Sakha](https://en.wikipedia.org/wiki/Yakut_language)|||||||||||||NO|
 |[Slovenian](https://en.wikipedia.org/wiki/Slovenian_language)|nìč|êna|dvé|trí|štíri|pét|šést|sédem|ósem|devét|ja|ne|NO|

@@ -132,6 +132,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Kinyarwanda](https://en.wikipedia.org/wiki/Kinyarwanda_language)|zeru|rimwe|kabiri|gatatu|kane|gatanu|gatandatu|karindwi|umunani|icyenda|yego|oya|YES|
 |[Kyrgyz](https://en.wikipedia.org/wiki/Kyrgyz_language)|нөл|бир|эки|үч|төрт|беш|алты|жети|сегиз|тогуз|ооба|жок|YES|
 |[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulle|viens|divi|trīs|četri|pieci|seši|septiņi|astoņi|deviņi|jā|nē|NO|
+|[Latvian](https://en.wikipedia.org/wiki/Latvian_language)|nulis|vienas|du|trys|keturi|penki|šeši|septyni|aštuoni|devyni|taip|ne|NO|
 |[Luganda](https://en.wikipedia.org/wiki/Luganda)|nooti|emu|bbiri|ssatu|nnya|ttaano|mukaaga|musanvu|munaana|mwenda|ye|nedda|YES|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|否|NO|
 |[Mandarin (Taiwan)](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|零|一|二|三|四|五|六|七|八|九|是|否|YES|

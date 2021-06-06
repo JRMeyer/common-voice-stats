@@ -136,6 +136,7 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Luganda](https://en.wikipedia.org/wiki/Luganda)|nooti|emu|bbiri|ssatu|nnya|ttaano|mukaaga|musanvu|munaana|mwenda|ye|nedda|YES|
 |[Mandarin (China)](https://en.wikipedia.org/wiki/Mandarin_language)|零|一|二|三|四|五|六|七|八|九|是|否|NO|
 |[Mandarin (Taiwan)](https://en.wikipedia.org/wiki/Taiwanese_Mandarin)|零|一|二|三|四|五|六|七|八|九|是|否|YES|
+|[Maltese](https://en.wikipedia.org/wiki/Maltese_language)|żero|wieħed|tnejn|tlieta|erbgħa|ħamsa|sitta|sebgħa|tmienja|disgħa|iva|le|NO|
 |[Mongolian](https://en.wikipedia.org/wiki/Mongolian_language)|тэг|нэг нь|хоёр|гурав|дөрөв|тав|зургаа|долоо|найм|ес|тийм шүү|үгүй шүү|NO|
 |[Odia](https://en.wikipedia.org/wiki/ODIA_language)|ଶୂନ|ଏକ|ଦୁଇ|ତିନି|ଚାରି|ପାଞ୍ଚ|ଛଅ|ସାତ|ଆଠ|ନଅ|ହଁ|ନା|YES|
 |[Persian](https://en.wikipedia.org/wiki/Persian_language)|صفر|یکی|دو|سه|چهار|پنج|شش|هفت|هشت|نه|آره|نه|NO|

@@ -77,5 +77,6 @@ For YES/NO, how would you say "yes" or "no" if you were answering a simple quest
 |[Tamil](https://en.wikipedia.org/wiki/Tamil_language)|பூஜ்யம்|ஒன்று|இரண்டு|மூன்று|நான்கு|ஐந்து|ஆறு|ஏழு|எட்டு|ஒன்பது|ஆம்|இல்லை|YES|
 |[Tatar](https://en.wikipedia.org/wiki/Tatar_language)|ноль|бер|ике|өч|дүрт|биш|алты|җиде|сигез|тугыз|әйе|юк|YES|
 |[Turkish](https://en.wikipedia.org/wiki/Turkish_language)|sıfır|bir|iki|üç|dört|beş|altı|yedi|sekiz|dokuz|evet|hayır|YES|
+|[Vietnamese](https://en.wikipedia.org/wiki/Vietnamese_language)|không|một|hai|ba|bốn|năm|sáu|bảy|tám|chín|có|không|YES|
 |[Votic](https://en.wikipedia.org/wiki/Votic_language)|||||||||||||NO|
 |[Welsh](https://en.wikipedia.org/wiki/Welsh_language)|sero / dim|un|dau|tri|pedwar|pump|chwech|saith|wyth|naw|N/A|N/A|YES|
